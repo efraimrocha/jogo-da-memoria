@@ -18,7 +18,14 @@ O projeto consiste em três principais arquivos:
 Este arquivo contém a lógica central do jogo. Aqui estão comentários sobre algumas das funções mais importantes:
 
 
+
 ## Como Jogar
+
+Click aqui:
+https://efraimrocha.github.io/jogo-da-memoria/
+
+ou
+
 1. Abra o arquivo index.html em um navegador web.
 ![Alt text](./src/images/image.png)
 2. Clique nas cartas para virá-las.
