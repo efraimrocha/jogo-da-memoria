@@ -71,6 +71,7 @@ h2{
     font-size: 3.5em;
     transform: rotateY(0deg);
     transition: 0.25s;
+    line-height: 30vh;
 }
 
 .item::after{
