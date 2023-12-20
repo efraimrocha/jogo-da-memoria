@@ -26,7 +26,7 @@ https://efraimrocha.github.io/jogo-da-memoria/
 
 ou
 
-1. Abra o arquivo index.html em um navegador web.
+1. Clone o repositório e abra o index.html com a extensão do LiveServer no VS COde, clicando com o botão direito.
 ![Alt text](./src/images/image.png)
 2. Clique nas cartas para virá-las.
 ![Alt text](./src/images/image-1.png)
